@@ -1,0 +1,89 @@
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap')url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap')url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+
+h1{
+  color: #ef8382;
+  font-family: 'Playfair Display', serif;
+  font-size: 80px;
+  text-align: center;
+  padding: 50px}
+
+#fable01 h1{
+  color: #ffff;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 23px;
+  font-weight: normal;
+text-align: center}
+
+#fable01 p{
+  color: #ffff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+text-align: center}
+
+#fable02 h1{
+  color: #131563;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 23px;
+  font-weight: normal;
+text-align: center}
+
+#fable02 p{
+  color: #11406c;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+text-align: center}
+
+
+#fable03 h1{
+  color: #131563;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 23px;
+  font-weight: normal;
+text-align: center}
+
+#fable03 p{
+  color: #313131;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+text-align: center}
+
+
+#fable04 h1{
+  color: #184d60;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 35px;
+  font-weight:normal;
+text-align: center;}
+
+#fable04 p{
+  color: #184d5b;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+text-align: center}
+
+#choix01 h1{
+  color: #184d5b;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  font-weight: bold;
+text-align: center}
+
+#choix02 h1{
+  color: #184d5b;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  font-weight: bold;
+text-align: center}
+
+#choix03 h1{
+  color: #184d5b;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  font-weight: bold;
+text-align: center}
